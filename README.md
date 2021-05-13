@@ -1,1 +1,1 @@
-# gold-mine-2
+# MT-function
